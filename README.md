@@ -44,4 +44,6 @@ HealthCare-Dataset: Patient_ID,	Admit_Date,	Discharge_Date,	Diagnosis,	Bed_Occup
 2. **Age Group Trends:** Older adults (60+) account for a significant proportion of treatment costs.
 3. **Performance Bottlenecks:** Average wait time spikes during specific months suggesting resource constraints.
 
+## DashBoard Screenshot
 
+![DashBoard](https://github.com/aman-theanalyst/Medical-Clinics_HeathCare-PowerBI-Dashboard/blob/main/Dashboard.png)
